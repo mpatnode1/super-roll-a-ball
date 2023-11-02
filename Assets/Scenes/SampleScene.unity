@@ -13840,10 +13840,8 @@ MonoBehaviour:
   m_VersionIndex: 2586
   m_IsSelectable: 1
   m_SelectedFaces: 
-  m_SelectedEdges:
-  - a: 11
-    b: 10
-  m_SelectedVertices: 0b0000000a000000
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
