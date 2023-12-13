@@ -311,8 +311,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: PUTT PUTT PARKOUR
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e402023c5cae0480aad8b211d60b3d2e, type: 2}
-  m_sharedMaterial: {fileID: 992788312312260953, guid: e402023c5cae0480aad8b211d60b3d2e,
+  m_fontAsset: {fileID: 11400000, guid: 1c6bdf352bc1e4d8d9b92d24bc617748, type: 2}
+  m_sharedMaterial: {fileID: -2726412101568831791, guid: 1c6bdf352bc1e4d8d9b92d24bc617748,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -922,16 +922,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: START
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 468a0429a2899423f80a80e96db35a97, type: 2}
-  m_sharedMaterial: {fileID: -3135270202936192771, guid: 468a0429a2899423f80a80e96db35a97,
+  m_fontAsset: {fileID: 11400000, guid: 1c6bdf352bc1e4d8d9b92d24bc617748, type: 2}
+  m_sharedMaterial: {fileID: -2726412101568831791, guid: 1c6bdf352bc1e4d8d9b92d24bc617748,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279654664
-  m_fontColor: {r: 0.031283367, g: 0.3490566, b: 0.08725892, a: 1}
+    rgba: 4279059970
+  m_fontColor: {r: 0.0064524733, g: 0.2735849, b: 0.052623484, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -954,7 +954,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
